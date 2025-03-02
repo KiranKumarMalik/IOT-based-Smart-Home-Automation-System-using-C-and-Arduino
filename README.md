@@ -266,8 +266,6 @@ Overall, this solution provided energy-efficient and convenient control of house
 - Export the compiled Binary.
 - Load the HEX file in PICSimlab Simulator.
    ![App Screenshot](./imgs/ard1.png)
-## Complete Demonstration available at: 
-- YouTube video: https://www.youtube.com/watch?v=JTmT7ICp2aE&ab_channel=SourabhShenoy
 
 ## Screenshot of Output:
  ![App Screenshot](./imgs/aed2.png)
